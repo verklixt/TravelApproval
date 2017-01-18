@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Travel Budget Requests" max_length="40" name="x_orsi_travel_appr_travel_budget_requests" sizeclass="7" type="collection">
+        <element label="End date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
+        <element default="0" label="Expensed Budget" max_length="40" name="expensed_budget" type="currency"/>
+        <element label="First name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element display="true" label="Name" max_length="32" name="name1" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Reason" max_length="40" name="reason" type="string"/>
+        <element label="Requested Budget" mandatory="true" max_length="40" name="requested_budget" type="currency"/>
+        <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

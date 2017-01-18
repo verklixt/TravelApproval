@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_orsi_travel_appr_travel_budget_requests" version="2" view="rpt-tempx_orsi_travel_appr_travel_budget_requestsmichelle">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_orsi_travel_appr_travel_budget_requests" element="NULL" name="x_orsi_travel_appr_travel_budget_requests" parent="NULL" relationship="NULL" sys_domain="global" view="34ef2b484ffb6600261c396f0310c753">34ff2f484ffb6600261c396f0310c70d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>michelle</sys_created_by>
+            <sys_created_on>2016-12-15 13:15:21</sys_created_on>
+            <sys_id>78ff2f484ffb6600261c396f0310c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>michelle</sys_updated_by>
+            <sys_updated_on>2016-12-15 13:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_orsi_travel_appr_travel_budget_requests" element="NULL" name="x_orsi_travel_appr_travel_budget_requests" parent="NULL" relationship="NULL" sys_domain="global" view="34ef2b484ffb6600261c396f0310c753">34ff2f484ffb6600261c396f0310c70d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>michelle</sys_created_by>
+            <sys_created_on>2016-12-15 13:15:21</sys_created_on>
+            <sys_id>f8ff2f484ffb6600261c396f0310c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>michelle</sys_updated_by>
+            <sys_updated_on>2016-12-15 13:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_budget</element>
+            <list_id display_value="x_orsi_travel_appr_travel_budget_requests" element="NULL" name="x_orsi_travel_appr_travel_budget_requests" parent="NULL" relationship="NULL" sys_domain="global" view="34ef2b484ffb6600261c396f0310c753">34ff2f484ffb6600261c396f0310c70d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>michelle</sys_created_by>
+            <sys_created_on>2016-12-15 13:15:21</sys_created_on>
+            <sys_id>7cff2f484ffb6600261c396f0310c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>michelle</sys_updated_by>
+            <sys_updated_on>2016-12-15 13:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_orsi_travel_appr_travel_budget_requests" element="NULL" name="x_orsi_travel_appr_travel_budget_requests" parent="NULL" relationship="NULL" sys_domain="global" view="34ef2b484ffb6600261c396f0310c753">34ff2f484ffb6600261c396f0310c70d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>michelle</sys_created_by>
+            <sys_created_on>2016-12-15 13:15:21</sys_created_on>
+            <sys_id>fcff2f484ffb6600261c396f0310c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>michelle</sys_updated_by>
+            <sys_updated_on>2016-12-15 13:15:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_orsi_travel_appr_travel_budget_requests</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>michelle</sys_created_by>
+            <sys_created_on>2016-12-15 13:15:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34ff2f484ffb6600261c396f0310c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Travel Approval">136c2ef34fa7660092c20fa21310c726</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>michelle</sys_updated_by>
+            <sys_updated_on>2016-12-15 13:15:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempx_orsi_travel_appr_travel_budget_requestsmichelle" name="rpt-tempx_orsi_travel_appr_travel_budget_requestsmichelle">34ef2b484ffb6600261c396f0310c753</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

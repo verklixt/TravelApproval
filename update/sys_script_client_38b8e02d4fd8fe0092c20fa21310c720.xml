@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Default User</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //sets the default user to the current user
+	g_form.setValue('name1', g_user.userID);
+	g_form.setValue('first_name', g_user.userID);
+	g_form.setValue('last_name', g_user.userID);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>michelle</sys_created_by>
+        <sys_created_on>2017-01-13 11:08:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>38b8e02d4fd8fe0092c20fa21310c720</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Default User</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Travel Approval" source="x_orsi_travel_appr">136c2ef34fa7660092c20fa21310c726</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Travel Approval">136c2ef34fa7660092c20fa21310c726</sys_scope>
+        <sys_update_name>sys_script_client_38b8e02d4fd8fe0092c20fa21310c720</sys_update_name>
+        <sys_updated_by>hamed</sys_updated_by>
+        <sys_updated_on>2017-01-17 14:17:41</sys_updated_on>
+        <table>x_orsi_travel_appr_travel_budget_requests</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
